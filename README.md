@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Pramod+Soysa;I'm+a+Full-Stack+Software+Engineering+Intern)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Pramod+Soysa;I'm+a+Full-Stack+Software+Engineering+Intern)](https://git.io/typing-svg)
 # 💫 About Me:
 
 I am a versatile Full Stack Engineering Intern currently working at Kingteza Software Solutions (Pvt) Ltd, Sri Lanka. I am a Software Engineering graduate from Cardiff Metropoliton University with a First Class Honours.
