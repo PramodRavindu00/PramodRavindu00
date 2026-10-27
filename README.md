@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Pramod+Soysa;I'm+a+Full-Stack+Software+Engineering+Intern)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Pramod+Soysa;I'm+a+Full+Stack+Engineer)](https://git.io/typing-svg)
 # 💫 About Me:
 
-I am a versatile Full Stack Engineering Intern currently working at Kingteza Software Solutions (Pvt) Ltd, Sri Lanka. I am a Software Engineering graduate from Cardiff Metropoliton University with a First Class Honours.
+I am a versatile Full Stack Engineer currently working at GreenPower Sri Lanka (Pvt) Ltd, Sri Lanka. I am a Software Engineering graduate from Cardiff Metropoliton University with a First Class Honours.
 
-**I’m looking to collaborate on:**  <br>Fullstack/Frontend/Backend projects<br><br>🌱 **I’m currently learning:**  <br>Nest JS, NextJS, PostGreSQL, AWS, Microservices.<br><br>💬 **Ask me about**  <br>JavaScript, TypeScript, React, Node.js, Express, MongoDB, System Designs, and any general software development questions.<br>
+**I’m looking to collaborate on:**  <br>Fullstack/Frontend/Backend projects<br><br>🌱 **I’m currently learning:**  <br>FastAPI, Python-based backend development, Docker, CI/CD, Microservices, AWS.<br><br>💬 **Ask me about**  <br>JavaScript, TypeScript, React, Node.js, Express, MongoDB, System Designs, and any general software development questions.<br>
 
 
 ## 🌐 Socials:
@@ -22,6 +22,8 @@ I am a versatile Full Stack Engineering Intern currently working at Kingteza Sof
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/)
 
 ### ⚙ Backend
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://docs.python.org/3/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/docs)
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 [![NestJS](https://img.shields.io/badge/nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://docs.nestjs.com/)
@@ -53,4 +55,3 @@ I am a versatile Full Stack Engineering Intern currently working at Kingteza Sof
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PramodRavindu00&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
